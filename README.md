@@ -2,7 +2,7 @@
 My GitHub Pages page for showcasing my contributions and personal projects.
 
 ## About
-Nothing says you can develop on the web like using a theme that somebody else spent a lot of time designing, and laying it on top of a full-blown web-publishing platform that automates builds from markdown files. :D
+Nothing says you can web-dev, quite like using a theme that somebody else spent a lot of time designing, and laying it on top of a full-blown web-publishing platform that automates builds from markdown files. :D
 
 Platform for highlighting contributions that I’ve made to others’ projects, and to host technical documentation for my own.
 
