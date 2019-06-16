@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Kevin Harper"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio-photo.jpg"
   bio              : "My Projects & Contributions"
   location         : #"Somewhere"
   email            :
