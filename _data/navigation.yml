@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "My GitHub Profile"
+    url: http://github.com/khdc-me/
   - title: "KevinHarper.com"
     url: https://kevinharper.com/
   # - title: "About"
