@@ -1,9 +1,7 @@
 # main links
 main:
-  - title: "My GitHub Profile"
-    url: http://github.com/khdc-me/
-  - title: "KevinHarper.com"
-    url: https://kevinharper.com/
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
